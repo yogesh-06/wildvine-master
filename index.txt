@@ -43,7 +43,7 @@ Welcome to Wildvine
 Give Love for Saving
 World Animals
 
-Sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua suspendisse ultrices gravida.
+Join us in protecting endangered species! Our website raises funds for wildlife conservation initiatives. Help us make a difference by donating today.
 
 Donation
 <ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
